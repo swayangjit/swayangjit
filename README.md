@@ -7,7 +7,7 @@
 💪 codes to fullfill my passion, contribute to the community.<br>
 </p>
 
-<h3 align='center'>**Languages and Frameworks:**  </h3>
+<h3 align='center'>Languages and Frameworks </h3>
 <p align='center'>
 <img height="32" src="https://raw.githubusercontent.com/swayangjit/swayangjit/master/res/java.png" hspace="10">
 <img height="32" src="https://raw.githubusercontent.com/swayangjit/swayangjit/master/res/android.png" hspace="10">
