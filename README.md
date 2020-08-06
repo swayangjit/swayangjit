@@ -16,8 +16,9 @@
 <img height="32" src="https://raw.githubusercontent.com/swayangjit/swayangjit/master/res/ionic.png" hspace="10">
 <img height="32" src="https://raw.githubusercontent.com/swayangjit/swayangjit/master/res/kotlin.png" hspace="10">
 </p>
-<h3 align='center'>Published Packages </h3>
+<h4 align='center'>Published Packages </h3>
 <p align='center'>
-<a href="https://www.npmjs.com/package/cordova-plugin-networkspeed">cordova-plugin-networkspeed</a> <br>
-<img style="vertical-align:middle" src="https://img.shields.io/npm/dt/cordova-plugin-networkspeed.svg">
+<a href="https://www.npmjs.com/package/cordova-plugin-networkspeed"><span style="font-size: medium">cordova-plugin-networkspeed</span>
+</a> <br>
+<img src="https://img.shields.io/npm/dt/cordova-plugin-networkspeed.svg">
 </p>
