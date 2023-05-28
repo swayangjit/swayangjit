@@ -15,6 +15,9 @@
 <img height="32" src="https://raw.githubusercontent.com/swayangjit/swayangjit/master/res/cordova.png" hspace="10">
 <img height="32" src="https://raw.githubusercontent.com/swayangjit/swayangjit/master/res/ionic.png" hspace="10">
 <img height="32" src="https://raw.githubusercontent.com/swayangjit/swayangjit/master/res/kotlin.png" hspace="10">
+<img height="42" src="https://raw.githubusercontent.com/swayangjit/swayangjit/master/res/compose.png" hspace="10">
+<img height="32" src="https://raw.githubusercontent.com/swayangjit/swayangjit/master/res/dart.png" hspace="10">
+<img height="32" src="https://raw.githubusercontent.com/swayangjit/swayangjit/master/res/flutter.png" hspace="10">
 </p>
 <h4 align='center'>Published Packages </h3>
 <p align='center'>
